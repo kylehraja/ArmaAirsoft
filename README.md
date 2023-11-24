@@ -15,3 +15,10 @@ Explantion of the web page
 ![image](https://github.com/kylehraja/ArmaAirsoft/assets/140476247/65a87a55-ad29-46ac-a5ac-48baa5cb6ef0)
 
 ![image](https://github.com/kylehraja/ArmaAirsoft/assets/140476247/ce8154af-d38d-4baa-b2fb-7d1602aec771)
+
+How to run webpage:
+
+1) Download and unzip the ArmaAirsoft.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
