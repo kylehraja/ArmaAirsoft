@@ -10,7 +10,7 @@ Arma Airsoft web page
 ![image](https://github.com/kylehraja/ArmaAirsoft/assets/140476247/f7153036-966a-4009-b907-35e33785d49c)
 
 Explantion of the web page
-![image](https://github.com/kylehraja/ArmaAirsoft/assets/140476247/138fce62-b7f0-4096-bb7d-b73981156e67)
+![image](https://github.com/kylehraja/ArmaAirsoft/assets/140476247/7100444a-524b-44aa-872a-d73c30884c6b)
 
 ![image](https://github.com/kylehraja/ArmaAirsoft/assets/140476247/65a87a55-ad29-46ac-a5ac-48baa5cb6ef0)
 
